@@ -1,6 +1,6 @@
 # Инструкция для работы с Git и удалёнными репозиториями
 
-![Git-GitHub](/gitgithub.png)
+![Git-GitHub](gitgithub.png)
 
 ## Что такое Git?
 
