@@ -49,3 +49,10 @@ Git - это одна из реализаций распределённых с�
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
 [def]: /gitgithub.png
+
+-   git remote show origin
+-   git push origin main
+-   git pull
+-   git merge origin
+-   git push -u origin new_branch
+-   git push --delete origin existing_branch
